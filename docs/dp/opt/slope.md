@@ -128,3 +128,4 @@ $$
 -   [「NOI2019」回家路线](https://loj.ac/problem/3156)
 -   [「NOI2016」国王饮水记](https://uoj.ac/problem/223)
 -   [「NOI2014」购票](https://uoj.ac/problem/7)
+-   [「Codeforces 1175G」Yet Another Partiton Problem ](https://codeforces.com/problemset/problem/1175/G)
